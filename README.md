@@ -1,6 +1,6 @@
-# Better Stylus Snippets
+# Stylus Clean Completions
 ## Description
-This package contain full pack of stylus snippets for Sublime Text according the best practice.
+This package contain full pack of stylus completions for Sublime Text according the best practice.
 ## Features
 * Snippets don't contain colons
 * Snippets contain high-usage property values
