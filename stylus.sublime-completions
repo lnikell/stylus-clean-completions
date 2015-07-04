@@ -27,7 +27,48 @@
       ,{ "trigger": "font-style\tstyl", "contents": "font-style ${1:italic}" }
       ,{ "trigger": "font-weight\tstyl", "contents": "font-style ${1:bold}" }
       ,{ "trigger": "height\tstyl", "contents": "height ${1:value}" }
-      
+      ,{ "trigger": "left\tstyl", "contents": "left ${1:0px}" }
+      ,{ "trigger": "line-height\tstyl", "contents": "line-height ${1:value}" }
+      ,{ "trigger": "list-style\tstyl", "contents": "list-style ${1:none}" }
+      ,{ "trigger": "margin\tstyl", "contents": "margin ${1:top} ${2:right} ${3:bottom} ${4:left}" }
+      ,{ "trigger": "margin-right\tstyl", "contents": "margin-right ${1:value}" }
+      ,{ "trigger": "margin-top\tstyl", "contents": "margin-top ${1:value}" }
+      ,{ "trigger": "margin-left\tstyl", "contents": "margin-left ${1:value}" }
+      ,{ "trigger": "margin-bottom\tstyl", "contents": "margin-bottom ${1:value}" }
+      ,{ "trigger": "max-height\tstyl", "contents": "max-height ${1:value}" }
+      ,{ "trigger": "max-width\tstyl", "contents": "max-width ${1:value}" }
+      ,{ "trigger": "min-width\tstyl", "contents": "min-width ${1:value}" }
+      ,{ "trigger": "min-height\tstyl", "contents": "min-height ${1:value}" }
+      ,{ "trigger": "opacity\tstyl", "contents": "opacity ${1:value}" }
+      ,{ "trigger": "outline\tstyl", "contents": "outline ${1:none}" }
+      ,{ "trigger": "overflow\tstyl", "contents": "overflow ${1:hidden}" }
+      ,{ "trigger": "overflow-x\tstyl", "contents": "overflow-x ${1:hidden}" }
+      ,{ "trigger": "overflow-y\tstyl", "contents": "overflow-y ${1:hidden}" }
+      ,{ "trigger": "padding\tstyl", "contents": "padding ${1:top} ${2:right} ${3:bottom} ${4:left}" }
+      ,{ "trigger": "padding-right\tstyl", "contents": "padding-right ${1:value}" }
+      ,{ "trigger": "padding-top\tstyl", "contents": "padding-top ${1:value}" }
+      ,{ "trigger": "padding-left\tstyl", "contents": "padding-left ${1:value}" }
+      ,{ "trigger": "padding-bottom\tstyl", "contents": "padding-bottom ${1:value}" }
+      ,{ "trigger": "position\tstyl", "contents": "position ${1:absolute}" }
+      ,{ "trigger": "right\tstyl", "contents": "right ${1:value}" }
+      ,{ "trigger": "resize\tstyl", "contents": "resize ${1:none}" }
+      ,{ "trigger": "text-align\tstyl", "contents": "text-align ${1:center}" }
+      ,{ "trigger": "text-decoration\tstyl", "contents": "text-decoration ${1:none}" }
+      ,{ "trigger": "text-indent\tstyl", "contents": "text-indent ${1:value}" }
+      ,{ "trigger": "text-overflow\tstyl", "contents": "text-overflow ${1:ellipsis}" }
+      ,{ "trigger": "text-transform\tstyl", "contents": "text-transform ${1:uppercase}" }
+      ,{ "trigger": "text-shadow\tstyl", "contents": "text-shadow ${1:x} ${2:y} ${3:spread} ${4:color}" }
+      ,{ "trigger": "top\tstyl", "contents": "top ${1:0px}" }
+      ,{ "trigger": "transform\tstyl", "contents": "transform ${1:function}" }
+      ,{ "trigger": "transition\tstyl", "contents": "transition ${1:duration} ${2:property} ${3:timing-function}" }
+      ,{ "trigger": "vertical-align\tstyl", "contents": "vertical-align ${1:middle}" }
+      ,{ "trigger": "visibility\tstyl", "contents": "visibility ${1:hidden}" }
+      ,{ "trigger": "white-space\tstyl", "contents": "white-space ${1:nowrap}" }
+      ,{ "trigger": "width\tstyl", "contents": "width ${1:value}" }
+      ,{ "trigger": "word-break\tstyl", "contents": "word-break ${1:break-all}" }
+      ,{ "trigger": "word-wrap\tstyl", "contents": "word-wrap ${1:break-word}" }
+      ,{ "trigger": "z-index\tstyl", "contents": "z-index ${1:value}" }
+
     ]
 
 }
