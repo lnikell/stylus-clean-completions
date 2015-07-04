@@ -1,4 +1,4 @@
-# Stylus Snippets Full
+# Better Stylus Snippets
 ## Description
 This package contain full pack of stylus snippets for Sublime Text according the best practice.
 ## Features
