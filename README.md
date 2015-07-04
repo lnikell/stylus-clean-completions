@@ -9,7 +9,7 @@ This package contain full pack of stylus completions for Sublime Text according 
 ### via Package Control
 * Open the Command Pallete (ctrl+shift+P or cmd+shift+P);
 * Type "Package Control: Add Repository";
-* Type "https://github.com/lnikell/stylus-snippets-full.git";
+* Type "https://github.com/lnikell/stylus-clean-completions.git";
 * Open the Command Pallete (ctrl+shift+P or cmd+shift+P);
 * Type "Install Package";
 * Type "stylus-snippets-full" and hit return.
