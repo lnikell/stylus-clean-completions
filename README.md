@@ -2,8 +2,8 @@
 ## Description
 This package contain full pack of stylus completions for Sublime Text according the best practice.
 ## Features
-* Snippets don't contain colons
-* Snippets contain high-usage property values
+* Completions don't contain colons
+* Completions contain high-usage property values
 
 ## Installation
 ### via Package Control
