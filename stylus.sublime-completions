@@ -12,6 +12,21 @@
       ,{ "trigger": "background-color\tstyl", "contents": "background-color ${1:color}" }
       ,{ "trigger": "background-attachment\tstyl", "contents": "background-attachment ${1:fixed}" }
       ,{ "trigger": "border\tstyl", "contents": "border ${1:width} ${2:style} ${3:color}" }
+      ,{ "trigger": "border-color\tstyl", "contents": "border-color ${1:color}" }
+      ,{ "trigger": "border-radius\tstyl", "contents": "border-radius ${1:radius}" }
+      ,{ "trigger": "box-shadow\tstyl", "contents": "box-shadow ${1:x} ${2:y} ${3:blur} ${4:spread} ${5:color}" }
+      ,{ "trigger": "box-sizing\tstyl", "contents": "box-sizing ${1:border-box}" }
+      ,{ "trigger": "bottom\tstyl", "contents": "bottom ${1:0px}" }
+      ,{ "trigger": "color\tstyl", "contents": "color ${1:color}" }
+      ,{ "trigger": "cursor\tstyl", "contents": "cursor ${1:pointer}" }
+      ,{ "trigger": "clear\tstyl", "contents": "clear ${1:both}" }
+      ,{ "trigger": "display\tstyl", "contents": "display ${1:block}" }
+      ,{ "trigger": "float\tstyl", "contents": "float ${1:left}" }
+      ,{ "trigger": "font-family\tstyl", "contents": "font-family ${1:font}" }
+      ,{ "trigger": "font-size\tstyl", "contents": "font-size ${1:size}" }
+      ,{ "trigger": "font-style\tstyl", "contents": "font-style ${1:italic}" }
+      ,{ "trigger": "font-weight\tstyl", "contents": "font-style ${1:bold}" }
+      ,{ "trigger": "height\tstyl", "contents": "height ${1:value}" }
       
     ]
 
