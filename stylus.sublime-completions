@@ -9,7 +9,6 @@
       ,{ "trigger": "background-position\tstyl", "contents": "background-position ${1:position} ${2:position}" }
       ,{ "trigger": "background-repeat\tstyl", "contents": "background-repeat ${1:repeat}" }
       ,{ "trigger": "background-color\tstyl", "contents": "background-color ${1:color}" }
-      ,{ "trigger": "background-color\tstyl", "contents": "background-color ${1:color}" }
       ,{ "trigger": "background-attachment\tstyl", "contents": "background-attachment ${1:fixed}" }
       ,{ "trigger": "border\tstyl", "contents": "border ${1:width} ${2:style} ${3:color}" }
       ,{ "trigger": "border-color\tstyl", "contents": "border-color ${1:color}" }
