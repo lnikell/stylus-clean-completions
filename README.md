@@ -15,5 +15,7 @@ This package contain full pack of stylus completions for Sublime Text according 
 * Type "Install Package";
 * Type "Stylus Clean Completions" and hit return.
 
+## Any ideas?
+Please write me on [github](https://github.com/lnikell) or create issue 
 
 Tags: stylus autocomplete, stylus snippets
