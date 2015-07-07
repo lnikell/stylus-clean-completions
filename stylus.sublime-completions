@@ -24,7 +24,7 @@
       ,{ "trigger": "font-family\tstyl", "contents": "font-family ${1:font}" }
       ,{ "trigger": "font-size\tstyl", "contents": "font-size ${1:size}" }
       ,{ "trigger": "font-style\tstyl", "contents": "font-style ${1:italic}" }
-      ,{ "trigger": "font-weight\tstyl", "contents": "font-style ${1:bold}" }
+      ,{ "trigger": "font-weight\tstyl", "contents": "font-weight ${1:bold}" }
       ,{ "trigger": "height\tstyl", "contents": "height ${1:value}" }
       ,{ "trigger": "left\tstyl", "contents": "left ${1:0px}" }
       ,{ "trigger": "line-height\tstyl", "contents": "line-height ${1:value}" }
