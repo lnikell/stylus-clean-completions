@@ -3,7 +3,9 @@
 This package contain full pack of stylus completions for Sublime Text according the best practice.
 
 ![Example usage]
-(https://habrastorage.org/files/bd1/ea1/76b/bd1ea176b565439093ad0c4ded51b269.gif)
+(https://habrastorage.org/files/b8e/ef4/e16/b8eef4e169954ff0ada28081817507c5.gif)
+
+You can use Tab to switch between preset values of property
 
 ## Features
 * Completions don't contain colons
