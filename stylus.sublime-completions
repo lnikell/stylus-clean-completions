@@ -69,8 +69,8 @@
       ,{ "trigger": "z-index1\tstyl", "contents": "z-index ${1:value}" }
       ,{ "trigger": "first-child\tstyl", "contents": "first-child\n\t" }
       ,{ "trigger": "last-child\tstyl", "contents": "last-child\n\t" }
-      ,{ "trigger": "before\tstyl", "contents": "before\n\tcontent: ''" }
-      ,{ "trigger": "after\tstyl", "contents": "after\n\tcontent: ''" }
+      ,{ "trigger": "before\tstyl", "contents": "before\n\tcontent ''" }
+      ,{ "trigger": "after\tstyl", "contents": "after\n\tcontent ''" }
       ,{ "trigger": "focus\tstyl", "contents": "focus\n\t" }
       ,{ "trigger": "active\tstyl", "contents": "active\n\t" }
       ,{ "trigger": "hover\tstyl", "contents": "hover\n\t" }
