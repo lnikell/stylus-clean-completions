@@ -11,6 +11,10 @@
       ,{ "trigger": "background-color\tstyl", "contents": "background-color ${1:color}" }
       ,{ "trigger": "background-attachment\tstyl", "contents": "background-attachment ${1:fixed}" }
       ,{ "trigger": "border\tstyl", "contents": "border ${1:width} ${2:style} ${3:color}" }
+      ,{ "trigger": "border-top\tstyl", "contents": "border-top ${1:value}" }
+      ,{ "trigger": "border-bottom\tstyl", "contents": "border-bottom ${1:width} ${2:style} ${3:color}" }
+      ,{ "trigger": "border-right\tstyl", "contents": "border-right ${1:width} ${2:style} ${3:color}" }
+      ,{ "trigger": "border-left\tstyl", "contents": "border-left ${1:width} ${2:style} ${3:color}" }
       ,{ "trigger": "border-color\tstyl", "contents": "border-color ${1:color}" }
       ,{ "trigger": "border-radius\tstyl", "contents": "border-radius ${1:radius}" }
       ,{ "trigger": "box-shadow\tstyl", "contents": "box-shadow ${1:x} ${2:y} ${3:blur} ${4:spread} ${5:color}" }
