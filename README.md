@@ -3,7 +3,14 @@
 This package contain full pack of stylus completions for Sublime Text according the best practice.
 
 ![Example usage]
-(https://habrastorage.org/files/bd1/ea1/76b/bd1ea176b565439093ad0c4ded51b269.gif)
+(https://habrastorage.org/files/b8e/ef4/e16/b8eef4e169954ff0ada28081817507c5.gif)
+
+You can use Tab to switch between preset values of property
+
+Fantastic completions for before and after pseudo elements
+
+![Example usage]
+(https://habrastorage.org/files/08f/048/d76/08f048d76a9e451ca93cfc5cb558e715.gif)
 
 ## Features
 * Completions don't contain colons
@@ -16,6 +23,6 @@ This package contain full pack of stylus completions for Sublime Text according 
 * Type "Stylus Clean Completions" and hit return.
 
 ## Any ideas?
-Please write me on [github](https://github.com/lnikell) or create issue 
+Please create issue 
 
 Tags: stylus autocomplete, stylus snippets
