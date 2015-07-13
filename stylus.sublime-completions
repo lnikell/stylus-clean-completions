@@ -70,7 +70,7 @@
       ,{ "trigger": "width\tstyl", "contents": "width ${1:value}" }
       ,{ "trigger": "word-break\tstyl", "contents": "word-break ${1:break-all}" }
       ,{ "trigger": "word-wrap\tstyl", "contents": "word-wrap ${1:break-word}" }
-      ,{ "trigger": "z-index1\tstyl", "contents": "z-index ${1:value}" }
+      ,{ "trigger": "z-index\tstyl", "contents": "z-index ${1:value}" }
       ,{ "trigger": "first-child\tstyl", "contents": "first-child\n\t" }
       ,{ "trigger": "last-child\tstyl", "contents": "last-child\n\t" }
       ,{ "trigger": "before\tstyl", "contents": "before\n\tcontent ''" }
