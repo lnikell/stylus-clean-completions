@@ -1,6 +1,6 @@
 {
 
-    "scope": "source.stylus",
+    "scope": "source.stylus, source.vue-stylus.embedded",
     "completions":
     [
        { "trigger": "background\tstyl", "contents": "background ${1:color} url('${2:image}') ${3:position} ${4:repeat}" }
