@@ -1,5 +1,5 @@
-![4k](https://cloud.githubusercontent.com/assets/2697570/22281897/2d376448-e2fb-11e6-89f3-a64f99b131cf.png)
 # Stylus Clean Completions
+![4k](https://cloud.githubusercontent.com/assets/2697570/22281897/2d376448-e2fb-11e6-89f3-a64f99b131cf.png)
 ## Description
 This package contain full pack of stylus completions for Sublime Text according the best practice.
 
